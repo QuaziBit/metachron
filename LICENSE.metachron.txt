@@ -1,0 +1,18 @@
+This license applies to the **original parts of Metachron** (like the dynamic supply rules, voting logic, and lifespan-based features).
+
+You CAN:
+- Use it for personal learning, experimentation, or research
+- Share it with others, with credit to the original author
+- Fork it for non-commercial open-source work, with attribution
+
+You CANNOT:
+- Sell it, tokenize it, or use it commercially without permission
+- Remove the original author's name or claim it as your own
+
+If you want to use it in a commercial or token project, contact me first.
+
+Metachron is based on Bitcoin Core, which is under the MIT License. That part stays MIT.
+
+Created by Olexandr Matveyev  
+https://metachronchain.org  
+2025
