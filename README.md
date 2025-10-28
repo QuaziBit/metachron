@@ -34,6 +34,8 @@ Originally derived from Bitcoin Core.
 
 See [COPYING](COPYING) for full license details or visit [opensource.org/licenses/MIT](https://opensource.org/licenses/MIT).
 
+- Metachron’s original components use a [simplified custom license](LICENSE.metachron.txt)
+
 
 ## Disclaimer
 
